@@ -1,4 +1,4 @@
-# OpenGL_Dog
+# OpenGL_MovingDog
 
 This Project is OpenGL dog project, which can move its four legs and take a walk!
 I get similar source code from Sookmyung Women's University Professor Wha-Jin Park, 
