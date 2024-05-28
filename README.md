@@ -6,10 +6,6 @@ And this is final term project for 2024-1 semester.
 
 Here is the basic code for this project. 
 
-/* Interactive Figure Program from Chapter 8 using cylinders (quadrics) */
-/* Style similar to robot program but here we must traverse tree to display */
-/* Cylinders are displayed as filled and light/material properties */
-/* are set as in sphere approximation program */
 
 ```
 #include <GL/freeglut.h>
