@@ -11,6 +11,7 @@ Here is the basic code for this project.
 /* Cylinders are displayed as filled and light/material properties */
 /* are set as in sphere approximation program */
 
+```
 #include <GL/freeglut.h>
 
 #define TORSO_HEIGHT 5.0
@@ -300,4 +301,6 @@ void main(int argc, char** argv)
 
     glutMainLoop();
 }
+
+```
 
